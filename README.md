@@ -2,7 +2,7 @@
 
 **Junior Data Analyst | Transitioning from Radiography to Analytics**
 
-I specialize in transforming complex healthcare data into actionable insights. With a strong foundation in R, SQL, Excel, Tableau, and Python, I leverage my clinical experience to solve real-world medical challenges and optimize patient outcomes through data-driven decisions. My expertise also extends to energy, weather, and business & finance data analysis.
+I specialize in transforming complex data into actionable insights. With a strong foundation in R, SQL, Excel, Tableau, and Python, I leverage my clinical experience to solve real-world challenges and optimize outcomes through data-driven decisions. 
 
 ---
 
